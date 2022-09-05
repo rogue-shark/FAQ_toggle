@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://rogue-shark.github.io/FAQ_toggle"
       D E M O
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://github.com/rogue-shark/FAQ_toggle">
       Solution
   </h3>
 </div>
